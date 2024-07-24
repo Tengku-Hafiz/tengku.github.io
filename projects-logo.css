@@ -1,0 +1,39 @@
+/* Desktop styles */
+@media (min-width: 769px) {
+  #projects-desktop-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 10rem;
+    background-color: #f0f0f0;
+  }
+
+  #projects-desktop-nav .logo {
+    font-size: 2rem;
+    cursor: pointer;
+  }
+
+  #projects-desktop-nav .logo a {
+    color: #121212;
+    text-decoration: none;
+  }
+
+  #hamburger-nav {
+    display: none;
+  }
+
+  .container {
+    padding-top: 60px; /* Adjust this value based on your nav height */
+  }
+}
+
+/* Mobile styles */
+@media (max-width: 768px) {
+  #projects-desktop-nav {
+    display: none;
+  }
+
+  #hamburger-nav {
+    display: flex;
+  }
+}
