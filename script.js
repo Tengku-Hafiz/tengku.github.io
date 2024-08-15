@@ -121,27 +121,57 @@ const projects = [
     "isnew": true
   },
   {
-    "name": "ROBOT CAR BY USING ARDUINO",
+    "name": "FACE RECOGNITION USING OPENCV",
     "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/1emkEggUszYciDVEjO2xBUvxArXo7kuNw",
-    "isnew": false
-  },
-  {
-    "name": "TICK TAC TOCK GAME USING ANDROID STUDIO",
-    "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/10rL6u61ejn85A1U0S2SAXiuuV9eLF8YW",
-    "isnew": false
-  },
-  {
-    "name": "RASPBERRY PI & MINI KEYBOARD CONTROLLER",
-    "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/1tfIRv6TED6S5_xXM2nNGd1MJIfA-mgKP",
+    "url": "https://drive.google.com/drive/folders/11J_z5UdVVu9R4eZDPRHyAu2pPS_N0LER",
     "isnew": false
   },
   {
     "name": "IOT - SMART HOME USING ESP8266",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/11dOFFnNeyuhi5WIDgt__BWzfKAO84KV8",
+    "isnew": false
+  },
+  {
+    "name": "VOICE RECOGNITION USING PYTHON",
+    "description": "NULL",
+    "url": "https://drive.google.com/drive/folders/1Y7jAoA4uc_nNya6UE7OLkZHtJQLYxmwa",
+    "isnew": false
+  },
+  {
+    "name": "ROBOT CAR BY USING ARDUINO",
+    "description": "NULL",
+    "url": "https://drive.google.com/drive/folders/1emkEggUszYciDVEjO2xBUvxArXo7kuNw",
+    "isnew": false
+  },
+  {
+    "name": "SMART PICK-UP SYSTEM USING FINGERPRINT",
+    "description": "NULL",
+    "url": "https://www.youtube.com/watch?v=QZQs5zcHmg4&t=9s",
+    "isnew": false
+  },
+  {
+    "name": "SMART QUEUING SYSTEM USING TELEGRAM BOT",
+    "description": "NULL",
+    "url": "https://www.youtube.com/watch?v=whVtAgL4yq4&t=86s",
+    "isnew": false
+  },
+  {
+    "name": "ANDROID APP DEVELOPMENT USING ANDROID STUDIO",
+    "description": "NULL",
+    "url": "https://drive.google.com/drive/folders/10rL6u61ejn85A1U0S2SAXiuuV9eLF8YW",
+    "isnew": false
+  },
+  {
+    "name": "CREATE A WEBSITE USING CLOUD",
+    "description": "NULL",
+    "url": "https://drive.google.com/drive/folders/1IBG4bUWh0C3VjQS-rGWWdX8hNW9MeV80",
+    "isnew": false
+  },
+  {
+    "name": "RASPBERRY PI & MINI KEYBOARD CONTROLLER",
+    "description": "NULL",
+    "url": "https://drive.google.com/drive/folders/1tfIRv6TED6S5_xXM2nNGd1MJIfA-mgKP",
     "isnew": false
   },
   {
@@ -166,24 +196,6 @@ const projects = [
     "name": "LEARN TO SETUP SERVER USING OPENSSH",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/1-nEKJ4YDRYgsRJr55LL7GPiWVp9UmMmv",
-    "isnew": false
-  },
-  {
-    "name": "VOICE RECOGNITION USING PYTHON",
-    "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/1Y7jAoA4uc_nNya6UE7OLkZHtJQLYxmwa",
-    "isnew": false
-  },
-  {
-    "name": "FACE RECOGNITION USING OPENCV",
-    "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/11J_z5UdVVu9R4eZDPRHyAu2pPS_N0LER",
-    "isnew": false
-  },
-  {
-    "name": "CREATE A WEBSITE USING CLOUD",
-    "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/1IBG4bUWh0C3VjQS-rGWWdX8hNW9MeV80",
     "isnew": false
   },
   {
