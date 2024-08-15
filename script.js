@@ -123,49 +123,49 @@ const projects = [
   {
     "name": "FACE RECOGNITION USING OPENCV",
     "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/11J_z5UdVVu9R4eZDPRHyAu2pPS_N0LER",
+    "url": "https://drive.google.com/drive/folders/13qMdeV1bwFWP0wtWcgjBs5_eQVjNmFYl?usp=drive_link",
     "isnew": false
   },
   {
     "name": "IOT - SMART HOME USING ESP8266",
     "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/11dOFFnNeyuhi5WIDgt__BWzfKAO84KV8",
+    "url": "https://drive.google.com/drive/folders/15auD4OQF8sctjGF5E9IKxNXJ_FsWf36k?usp=drive_link",
     "isnew": false
   },
   {
     "name": "VOICE RECOGNITION USING PYTHON",
     "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/1Y7jAoA4uc_nNya6UE7OLkZHtJQLYxmwa",
+    "url": "https://drive.google.com/drive/folders/163F3VpWbp5SDnvobXndKWfXlF8YcAMsx?usp=drive_link",
     "isnew": false
   },
   {
     "name": "ROBOT CAR BY USING ARDUINO",
     "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/1emkEggUszYciDVEjO2xBUvxArXo7kuNw",
+    "url": "https://drive.google.com/drive/folders/1U8RRoUlwzLiOIUEya3pqmosmITj01v14?usp=drive_link",
     "isnew": false
   },
   {
     "name": "SMART PICK-UP SYSTEM USING FINGERPRINT",
     "description": "NULL",
-    "url": "https://www.youtube.com/watch?v=QZQs5zcHmg4&t=9s",
+    "url": "https://drive.google.com/drive/folders/1eqTPki5rkYc30FXd_j5AkjmSWTimpxUL?usp=drive_link",
     "isnew": false
   },
   {
     "name": "SMART QUEUING SYSTEM USING TELEGRAM BOT",
     "description": "NULL",
-    "url": "https://www.youtube.com/watch?v=whVtAgL4yq4&t=86s",
+    "url": "https://drive.google.com/drive/folders/13yd-iQzVmD2jt2uSqGJRCFo-1AU0OEcd?usp=drive_link",
     "isnew": false
   },
   {
     "name": "ANDROID APP DEVELOPMENT USING ANDROID STUDIO",
     "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/10rL6u61ejn85A1U0S2SAXiuuV9eLF8YW",
+    "url": "https://drive.google.com/drive/folders/1oTcgvjhM6qmQjeaOBQLzeOUkvkQM0enK?usp=drive_link",
     "isnew": false
   },
   {
-    "name": "CREATE A WEBSITE USING CLOUD",
+    "name": "CREATE A WEBSITE USING AWS CLOUD",
     "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/1IBG4bUWh0C3VjQS-rGWWdX8hNW9MeV80",
+    "url": "https://drive.google.com/drive/folders/1H3VpW_JHW2w8uG-6qI4eVr-L8QRCPW9q?usp=drive_link",
     "isnew": false
   },
   {
@@ -177,13 +177,13 @@ const projects = [
   {
     "name": "PYTHON SOCKET SERVER USING CLOUD",
     "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/1eUwO9OJ7Va7w2F4U8-JSAjeplRmaDqTb",
+    "url": "https://drive.google.com/drive/folders/1zaoq3BXJtVLyNuqo5-I7BGBV885NrMzq?usp=drive_link",
     "isnew": false
   },
   {
     "name": "LEARN SQL COMMANDS",
     "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/112dum1ImQLO0ueCSazzF2ajiBa5JDbhn",
+    "url": "https://drive.google.com/drive/folders/1sKK17FObu5wYu0drVlQRkjtQXFBuzRL8?usp=drive_link",
     "isnew": false
   },
   {
@@ -195,7 +195,7 @@ const projects = [
   {
     "name": "LEARN TO SETUP SERVER USING OPENSSH",
     "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/1-nEKJ4YDRYgsRJr55LL7GPiWVp9UmMmv",
+    "url": "https://drive.google.com/drive/folders/1ze0z5cbOCa30sI7nMyFkR8wyULWIbVuY?usp=drive_link",
     "isnew": false
   },
   {
