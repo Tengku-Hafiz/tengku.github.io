@@ -49,6 +49,18 @@ function toggleMenu() {
 // Project management
 const projects = [
   {
+    "name": "CONFIGURING MY OWN HOME SERVER",
+    "description": "NULL",
+    "url": "https://drive.google.com/drive/folders/15cKAEq6_Mb_b7sO-bf26SguCp4saxLc8?usp=drive_link",
+    "isnew": true
+  },
+  {
+    "name": "BASIC DATACOM SIMULATION FOR ROUTER & SWITCH",
+    "description": "NULL",
+    "url": "https://drive.google.com/drive/folders/1-3IKt8alxLHquHUp7q304o2K58-X8Cbr",
+    "isnew": true
+  },
+  {
     "name": "LEVERAGE TASKS WITH AI",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/1GdOpu-EyyUGgBQ_H1LkgWEzYgVCVOkrU",
@@ -109,94 +121,76 @@ const projects = [
     "isnew": true
   },
   {
-    "name": "BASIC DATACOM SIMULATION FOR ROUTER & SWITCH",
-    "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/1-3IKt8alxLHquHUp7q304o2K58-X8Cbr",
-    "isnew": true
-  },
-  {
-    "name": "UPGRADE VERSION FOR SERVER, ROUTER & SWITCH",
-    "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/1-3b4xNMnAZxuzuoG8VsKsL4D42ebXqLf",
-    "isnew": true
-  },
-  {
-    "name": "SPARE REPLACEMENT FOR SERVER, ROUTER & SWITCH",
-    "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/1-5XJkGtbMZ9ToPst_rs1QLdgS3KRfDAj",
-    "isnew": true
-  },
-  {
     "name": "ROBOT CAR BY USING ARDUINO",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/1emkEggUszYciDVEjO2xBUvxArXo7kuNw",
-    "isnew": true
+    "isnew": false
   },
   {
     "name": "TICK TAC TOCK GAME USING ANDROID STUDIO",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/10rL6u61ejn85A1U0S2SAXiuuV9eLF8YW",
-    "isnew": true
+    "isnew": false
   },
   {
     "name": "RASPBERRY PI & MINI KEYBOARD CONTROLLER",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/1tfIRv6TED6S5_xXM2nNGd1MJIfA-mgKP",
-    "isnew": true
+    "isnew": false
   },
   {
     "name": "IOT - SMART HOME USING ESP8266",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/11dOFFnNeyuhi5WIDgt__BWzfKAO84KV8",
-    "isnew": true
+    "isnew": false
   },
   {
     "name": "PYTHON SOCKET SERVER USING CLOUD",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/1eUwO9OJ7Va7w2F4U8-JSAjeplRmaDqTb",
-    "isnew": true
+    "isnew": false
   },
   {
     "name": "LEARN SQL COMMANDS",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/112dum1ImQLO0ueCSazzF2ajiBa5JDbhn",
-    "isnew": true
+    "isnew": false
   },
   {
     "name": "EXCEL USING FORMULA, VLOOKUP AND PIVOT TABLE",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/1-v1FvdDOe1LZGcBlBMs8CRF5CwqbN7pr",
-    "isnew": true
+    "isnew": false
   },
   {
     "name": "LEARN TO SETUP SERVER USING OPENSSH",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/1-nEKJ4YDRYgsRJr55LL7GPiWVp9UmMmv",
-    "isnew": true
+    "isnew": false
   },
   {
     "name": "VOICE RECOGNITION USING PYTHON",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/1Y7jAoA4uc_nNya6UE7OLkZHtJQLYxmwa",
-    "isnew": true
+    "isnew": false
   },
   {
     "name": "FACE RECOGNITION USING OPENCV",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/11J_z5UdVVu9R4eZDPRHyAu2pPS_N0LER",
-    "isnew": true
+    "isnew": false
   },
   {
     "name": "CREATE A WEBSITE USING CLOUD",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/1IBG4bUWh0C3VjQS-rGWWdX8hNW9MeV80",
-    "isnew": true
+    "isnew": false
   },
   {
     "name": "CYBER SECURITY MATERIALS",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/1javrGyLZLAUuB1VmVLdVwmMLeRW83Rrf",
-    "isnew": true
+    "isnew": false
   }
 ];
 
