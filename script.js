@@ -195,7 +195,7 @@ const projects = [
   {
     "name": "LEARN TO SETUP SERVER USING OPENSSH",
     "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/1ze0z5cbOCa30sI7nMyFkR8wyULWIbVuY?usp=drive_link",
+    "url": "https://drive.google.com/drive/folders/10FS4L6GaVnto9EroNvsu9d5wZGEZV4SR?usp=drive_link",
     "isnew": false
   },
   {
