@@ -165,7 +165,7 @@ const projects = [
   {
     "name": "CREATE A WEBSITE USING AWS CLOUD",
     "description": "NULL",
-    "url": "https://drive.google.com/drive/folders/1H3VpW_JHW2w8uG-6qI4eVr-L8QRCPW9q?usp=drive_link",
+    "url": "https://drive.google.com/drive/folders/1aOQcGy_k5FLtlhFOgK9CocrAlYjYUS8o?usp=drive_link",
     "isnew": false
   },
   {
