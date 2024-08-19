@@ -49,7 +49,7 @@ function toggleMenu() {
 // Project management
 const projects = [
   {
-    "name": "CONFIGURING MY OWN HOME SERVER",
+    "name": "CONFIGURE MY OWN HOME SERVER (PART 2)",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/15cKAEq6_Mb_b7sO-bf26SguCp4saxLc8?usp=drive_link",
     "isnew": true
@@ -193,7 +193,7 @@ const projects = [
     "isnew": false
   },
   {
-    "name": "LEARN TO SETUP SERVER USING OPENSSH",
+    "name": "LEARN TO SET UP A SERVER (PART 1)",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/10FS4L6GaVnto9EroNvsu9d5wZGEZV4SR?usp=drive_link",
     "isnew": false
