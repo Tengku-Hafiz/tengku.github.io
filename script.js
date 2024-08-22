@@ -175,7 +175,7 @@ const projects = [
     "isnew": false
   },
   {
-    "name": "PYTHON SOCKET SERVER USING CLOUD",
+    "name": "PYTHON SOCKET SERVER USING a CLOUD",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/1zaoq3BXJtVLyNuqo5-I7BGBV885NrMzq?usp=drive_link",
     "isnew": false
