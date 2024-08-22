@@ -169,6 +169,12 @@ const projects = [
     "isnew": false
   },
   {
+    "name": "Create a landing page using Firebase",
+    "description": "NULL",
+    "url": "https://drive.google.com/drive/folders/14OYKs0n65SRD3FQjamnLfKsuwKmEE3bD?usp=drive_link",
+    "isnew": false
+  },
+  {
     "name": "RASPBERRY PI & MINI KEYBOARD CONTROLLER",
     "description": "NULL",
     "url": "https://drive.google.com/drive/folders/1tfIRv6TED6S5_xXM2nNGd1MJIfA-mgKP",
